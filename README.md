@@ -5,7 +5,7 @@
   <img src="https://github.com/NarodBocaj/NarodBocaj/blob/main/96.gif?raw=true" width="100"/>
 </div>
 
-
+- :deciduous_tree: Interested in math, stats, machine learning, and finance
 
 
 <!--
