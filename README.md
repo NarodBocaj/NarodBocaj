@@ -5,7 +5,7 @@
   <img src="https://github.com/NarodBocaj/NarodBocaj/blob/main/96.gif?raw=true" width="100"/>
 </div>
 
-![NarodBocaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=NarodBocaj&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 
 <!--
