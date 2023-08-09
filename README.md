@@ -5,6 +5,9 @@
   <img src="https://github.com/NarodBocaj/NarodBocaj/blob/main/96.gif?raw=true" width="100"/>
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NarodBocaj)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **NarodBocaj/NarodBocaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
